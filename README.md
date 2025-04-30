@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I’m Hamna👋
+CS student | Full-stack developer (MERN + Next.js)
 
-<!--
-**humnaliaquat/humnaliaquat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Currently working on:
+Task Management App (MERN stack + Next.js)
 
-Here are some ideas to get you started:
+🌱 Learning:
+Next.js | Advanced MERN stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+Frontend: React, Next.js, Tailwind CSS
+
+Backend: Node.js, Express.js
+
+Database: MongoDB, PostgreSQL
+
+Tools: TypeScript, Redux, Git/GitHub
+
+🤝 I’m available for contributions on interesting projects!
+
+📫 Reach me:
+Email: hanilicious17@gmail.com
+
+LinkedIn: www.linkedin.com/in/hamna-liaquat-9b51a2275
