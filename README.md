@@ -2,7 +2,7 @@ Hi, I’m Hamna👋
 CS student | Full-stack developer (MERN + Next.js)
 
 🚀 Currently working on:
-Task Management App (MERN stack + Next.js) and 30 days of JavaScript
+Task Management App (MERN stack + Next.js) 
 
 🌱 Learning:
 Next.js | Advanced MERN stack
