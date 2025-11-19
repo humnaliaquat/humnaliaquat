@@ -2,7 +2,7 @@ Hi, I’m Hamna👋
 CS student | Full-stack developer (MERN + Next.js)
 
 🚀 Currently working on:
-Task Management App (MERN stack + Next.js) 
+Desk Setup Store (MERN stack + Next.js) 
 
 🌱 Learning:
 Next.js | Advanced MERN stack
@@ -14,7 +14,7 @@ Backend: Node.js, Express.js
 
 Database: MongoDB, PostgreSQL
 
-Tools: TypeScript, Redux, Git/GitHub
+Tools: TypeScript,  Git/GitHub
 
 🤝 I’m available for contributions on interesting projects!
 
