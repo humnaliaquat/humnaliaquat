@@ -42,15 +42,4 @@
 
 <br/>
 
-### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=humnaliaquat&show_icons=true&theme=default&hide_border=true" alt="Hamna's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humnaliaquat&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=humnaliaquat&label=Profile%20Views&color=7FB88F&style=flat" alt="Profile views"/>
-</p>
