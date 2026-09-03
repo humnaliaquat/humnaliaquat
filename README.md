@@ -7,7 +7,6 @@
 <br/>
 
 - 🚀 Currently building: **[Notewise](#)** — an AI-powered notes/document chat app (RAG)
-- 🛠️ Also building: **[Desk Setup Store](#)** — an e-commerce site built with MERN + Next.js
 - 🌱 Currently learning: RAG pipelines, Next.js internals, advanced MERN patterns
 - 🤝 Open to collaborations and open-source contributions
 - 📫 Email: **hamnaliaqat24@gmail.com** &nbsp;|&nbsp; 💼 LinkedIn: **[linkedin.com/in/hamna-liaquat-9b51a2275](https://linkedin.com/in/hamna-liaquat-9b51a2275)**
