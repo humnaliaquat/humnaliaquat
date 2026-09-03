@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hamna 👋</h1>
 
 <p align="center">
-  🎓 CS Student &nbsp;·&nbsp; Full-Stack Developer (MERN + Next.js)
+  🎓 Recent CS Graduate &nbsp;·&nbsp; Full-Stack Developer (MERN + Next.js)
 </p>
 
 <br/>
@@ -10,13 +10,13 @@
 - 🛠️ Also building: **[Desk Setup Store](#)** — an e-commerce site built with MERN + Next.js
 - 🌱 Currently learning: RAG pipelines, Next.js internals, advanced MERN patterns
 - 🤝 Open to collaborations and open-source contributions
-- 📫 Email: **hamnaliaqat24@gmail.com** &nbsp;|&nbsp; 💼 LinkedIn: **[linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)**
+- 📫 Email: **hamnaliaqat24@gmail.com** &nbsp;|&nbsp; 💼 LinkedIn: **[linkedin.com/in/hamna-liaquat-9b51a2275](https://linkedin.com/in/hamna-liaquat-9b51a2275)**
 
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hamna-liaquat-9b51a2275/)" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/hamna-liaquat-9b51a2275">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hamnaliaqat24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -46,7 +46,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=humnaliaquat&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Hamna's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=humnaliaquat&show_icons=true&theme=default&hide_border=true" alt="Hamna's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humnaliaquat&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
 </p>
 
