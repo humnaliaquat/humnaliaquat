@@ -6,10 +6,25 @@
 
 <br/>
 
-- 🚀 Currently building: **[Desk Setup Store](#)** — an e-commerce site built with MERN + Next.js
-- 🌱 Currently learning: Next.js internals, advanced MERN patterns
+- 🚀 Currently building: **[Notewise](#)** — an AI-powered notes/document chat app (RAG)
+- 🛠️ Also building: **[Desk Setup Store](#)** — an e-commerce site built with MERN + Next.js
+- 🌱 Currently learning: RAG pipelines, Next.js internals, advanced MERN patterns
 - 🤝 Open to collaborations and open-source contributions
-- 📫 Reach me: **hamnaliaqat24@gmail.com**
+- 📫 Email: **hamnaliaqat24@gmail.com** &nbsp;|&nbsp; 💼 LinkedIn: **[linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)**
+
+<br/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/hamna-liaquat-9b51a2275/)" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hamnaliaqat24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/humnaliaquat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 <br/>
 
