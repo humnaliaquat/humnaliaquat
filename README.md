@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🚀 Currently building: **[Notewise](#)** — an AI-powered notes/document chat app (RAG)
+- 🚀 Currently building: **[Notewise](#)**  an AI-powered notes/document chat app (RAG)
 - 🌱 Currently learning: RAG pipelines, Next.js internals, advanced MERN patterns
 - 🤝 Open to collaborations and open-source contributions
 - 📫 Email: **hamnaliaqat24@gmail.com** &nbsp;|&nbsp; 💼 LinkedIn: **[linkedin.com/in/hamna-liaquat-9b51a2275](https://linkedin.com/in/hamna-liaquat-9b51a2275)**
